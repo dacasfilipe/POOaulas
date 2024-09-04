@@ -37,5 +37,6 @@ public class Musica {
         numAvaliacoes++; //quantidade de avaliações
         somatorioAvaliacoes = somatorioAvaliacoes + avaliacao;
         mediaAvaliacoes = somatorioAvaliacoes / numAvaliacoes;
+        //teste ok
     }
 }
